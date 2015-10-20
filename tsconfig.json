@@ -21,6 +21,7 @@
         "app/components/home/home.ts",
         "app/services/name_list_spec.ts",
         "app/services/name_list.ts",
+        "app/services/steam.ts",
         "app/typings.d.ts",
         "gulpfile.ts",
         "tools/config.ts",
